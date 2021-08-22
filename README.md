@@ -1,4 +1,4 @@
-# The project is a console based Blood Bank Application created in JAVA.
+# It is a console based Blood Bank Application created in JAVA.
 It is developed by Objected Oriented Programming paradigm.
 People can add a bloodbank center, update an existing center, delete a center by center id.
 People can search bloodbank centers near their area by using city,state,pincode.
