@@ -1,8 +1,8 @@
 # It is a console based Blood Bank Application created in JAVA.
 It is developed by Objected Oriented Programming paradigm.
-Using this application, People can add a bloodbank center, update an existing center, delete a center by center id.
+Using this application, people can add a bloodbank center, update an existing center, delete a center by center id.
 People can search bloodbank centers near their area by using city,state,pincode.
-implemented logger and junit testing, user-defiend exceptions.
-used JDBC API to connect with MySQL database.
-used Collections List and some of the java 8 features like streams api, map, lamda function.
+Implemented logger and junit testing, user-defiend exceptions.
+Used JDBC API to connect with MySQL database.
+Used Collections List and some of the java 8 features like streams api, map, lamda function.
 
